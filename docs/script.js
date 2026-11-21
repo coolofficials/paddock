@@ -1,14 +1,59 @@
 "use strict";
-// Feature tabs are a small, keyboard-operable guide; the product demo remains visible.
-const tabs=Array.from(document.querySelectorAll('[role="tab"]'));
-function selectTab(tab,focus=false){
-  for(const item of tabs){const selected=item===tab;item.setAttribute('aria-selected',String(selected));item.tabIndex=selected?0:-1;document.getElementById(item.getAttribute('aria-controls')).hidden=!selected;}
-  if(focus)tab.focus();
+const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
+const previews = [...document.querySelectorAll("[data-preview]")];
+function load(video) {
+  const source = video.querySelector("source");
+  if (!source.src) {
+    source.src = source.dataset.src;
+    video.load();
+  }
 }
-for(const tab of tabs){
-  tab.addEventListener('click',()=>selectTab(tab));
-  tab.addEventListener('keydown',event=>{let index=tabs.indexOf(tab);if(event.key==='ArrowRight')index=(index+1)%tabs.length;else if(event.key==='ArrowLeft')index=(index+tabs.length-1)%tabs.length;else if(event.key==='Home')index=0;else if(event.key==='End')index=tabs.length-1;else return;event.preventDefault();selectTab(tabs[index],true);});
+function updateButton(video) {
+  const button = video.nextElementSibling;
+  const playing = !video.paused;
+  button.textContent = playing ? "Pause" : "Play";
+  button.setAttribute(
+    "aria-label",
+    (playing ? "Pause " : "Play ") + video.dataset.preview + " preview",
+  );
+  button.setAttribute("aria-pressed", String(playing));
 }
-// Pause the other demonstration when a visitor starts a video.
-const videos=Array.from(document.querySelectorAll('video'));
-for(const video of videos)video.addEventListener('play',()=>{for(const other of videos)if(other!==video)other.pause();});
+function sync(video) {
+  const allowed =
+    video.dataset.userState === "playing" ||
+    (!reducedMotion.matches && video.dataset.userState !== "paused");
+  if (video.dataset.visible === "true" && !document.hidden && allowed) {
+    load(video);
+    video.play().catch(() => updateButton(video));
+  } else {
+    video.pause();
+  }
+  updateButton(video);
+}
+const observer = new IntersectionObserver(
+  (entries) => {
+    for (const entry of entries) {
+      entry.target.dataset.visible = String(entry.isIntersecting);
+      sync(entry.target);
+    }
+  },
+  { threshold: 0.25 },
+);
+for (const video of previews) {
+  video.muted = true;
+  video.addEventListener("play", () => updateButton(video));
+  video.addEventListener("pause", () => updateButton(video));
+  video.nextElementSibling.addEventListener("click", () => {
+    video.dataset.userState = video.paused ? "playing" : "paused";
+    sync(video);
+  });
+  observer.observe(video);
+  updateButton(video);
+}
+reducedMotion.addEventListener("change", () => {
+  for (const video of previews) {
+    delete video.dataset.userState;
+    sync(video);
+  }
+});
+document.addEventListener("visibilitychange", () => previews.forEach(sync));
