@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "frameworkVersion": "1.1.0",
+  "updatedAt": "2026-10-17",
+  "language": "ko-KR",
+  "purpose": "한글 가독성·화면 재배치·확대·입력·조작 품질의 출시 조건과 검증 증거를 관리한다.",
+  "scope": "기준 구현과 이 규격을 적용한 각 앱은 별도로 검증한다. 이 파일은 전체 WCAG 준수나 접근성 인증을 선언하지 않는다.",
+  "typographyBaseline": {
+    "defaultFont": {
+      "family": "Pretendard Variable",
+      "version": "1.3.9",
+      "requiredPrecomposedHangulRange": "U+AC00–U+D7A3",
+      "requiredPrecomposedHangulCount": 11172,
+      "requireSinglePrimaryFamilyCoverage": true
+    },
+    "comparisonFont": {
+      "family": "SUIT Variable",
+      "version": "2.0.5",
+      "includedPrecomposedHangulCount": 2668,
+      "bundledFallback": {
+        "family": "Pretendard Variable",
+        "version": "1.3.9",
+        "scope": "SUIT 비교 선택 모드에만 적용한다. SUIT cmap에 없는 U+AC00–U+D7A3 범위의 완성형 한글 8,504자 및 em dash U+2014를 번들 Pretendard로 대체한다.",
+        "missingPrecomposedHangulCount": 8504,
+        "additionalCodePoints": ["U+2014"],
+        "runtimeVerificationStatus": "pending"
+      }
+    },
+    "uiPx": 15,
+    "prosePx": 16,
+    "proseLineHeight": 1.8,
+    "captionPx": 13,
+    "koreanLetterSpacingEm": 0,
+    "weights": [
+      400,
+      500,
+      600
+    ],
+    "responsiveUnit": "rem",
+    "densityMustNotReduceFontSize": true,
+    "userSpacingOverridesAllowed": true,
+    "basis": "project-design-choice; not WCAG-prescribed font sizes"
+  },
+  "coverage": {
+    "documents": [
+      "index.html",
+      "DESIGN-SPEC.html",
+      "QUALITY-LAB.html"
+    ],
+    "views": [
+      "overview",
+      "components",
+      "foundations",
+      "rules"
+    ],
+    "states": [
+      "normal",
+      "empty",
+      "no-results",
+      "loading",
+      "error"
+    ],
+    "overlays": [
+      "create-dialog",
+      "discard-dialog",
+      "danger-dialog",
+      "command-dialog",
+      "undo-toast",
+      "lab-dialog"
+    ],
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "densities": [
+      "comfortable",
+      "compact"
+    ],
+    "fonts": [
+      "Pretendard Variable",
+      "SUIT Variable"
+    ],
+    "viewportCssPx": [
+      {
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "width": 800,
+        "height": 600
+      },
+      {
+        "width": 640,
+        "height": 480
+      },
+      {
+        "width": 400,
+        "height": 600
+      },
+      {
+        "width": 320,
+        "height": 568
+      }
+    ],
+    "lowHeightOverlayViewportCssPx": {
+      "width": 640,
+      "height": 360
+    },
+    "textResizePercent": [
+      100,
+      200
+    ],
+    "actualBrowserZoomPercent": [
+      100,
+      125,
+      150,
+      200
+    ],
+    "actualWindowsDisplayScalePercent": [
+      100,
+      125,
+      150,
+      200
+    ],
+    "matrixRule": "모든 조합을 실행했다고 추정하지 않는다. 실행한 화면·상태·서체·테마·밀도·치수·배율 조합을 증거에 나열하고, 적용 대상 중 실행하지 않은 조건은 pending으로 남긴다.",
+    "noEquivalenceClaims": [
+      "Root font-size 200% is not evidence of actual browser zoom.",
+      "Viewport resizing is not evidence of actual Windows display scaling.",
+      "deviceScaleFactor or screenshot resolution is not evidence of Windows DPI testing."
+    ]
+  },
+  "fixtures": {
+    "koreanTitle": {
+      "minimumLength": 80,
+      "lengthUnit": "Unicode code points",
+      "variants": [
+        "spaced",
+        "unbroken"
+      ]
+    },
+    "englishPath": {
+      "minimumLength": 200,
+      "lengthUnit": "ASCII characters",
+      "containsSpaces": false
+    },
+    "errorMessage": {
+      "minimumLines": 3
+    },
+    "textMixture": [
+      "modern Hangul",
+      "Latin",
+      "digits",
+      "parentheses",
+      "punctuation"
+    ],
+    "normalizationForms": [
+      "NFC",
+      "NFD"
+    ],
+    "inputOperations": [
+      "compose",
+      "commit",
+      "backspace",
+      "replace-selection",
+      "paste",
+      "search",
+      "save",
+      "reopen"
+    ],
+    "normalizationPolicy": "표시·검색에서 정규화 차이를 처리한다. 원본 경로와 저장 값은 제품이 명시한 정책 없이 변경하지 않는다.",
+    "nfdShapingVerification": {
+      "status": "pending",
+      "rule": "Raw cmap에 NFD 자모의 직접 매핑이 없다는 사실만으로 렌더링 불가를 단정하지 않는다. 실제 shaping·조합·표시 결과를 별도로 확인한다."
+    }
+  },
+  "thresholds": {
+    "unintendedPageHorizontalOverflowCount": 0,
+    "hiddenEssentialContentClippingCount": 0,
+    "unintendedOverlapCount": 0,
+    "unreachableActionCount": 0,
+    "unintendedHangulFallbackCount": 0,
+    "unresolvedRequiredGateFailureCount": 0
+  },
+  "allowedExceptions": [
+    {
+      "kind": "necessary-two-dimensional-content",
+      "examples": [
+        "data table",
+        "code or log area",
+        "editing canvas"
+      ],
+      "requirements": [
+        "named local scroll region",
+        "keyboard access",
+        "surrounding controls reflow",
+        "essential content remains reachable"
+      ],
+      "recordRequired": true
+    },
+    {
+      "kind": "intentional-font-fallback",
+      "examples": [
+        "emoji",
+        "explicitly supported specialist symbol"
+      ],
+      "requirements": [
+        "record the character range and rendered font",
+        "no unexpected Hangul fallback"
+      ],
+      "recordRequired": true
+    },
+    {
+      "kind": "suit-comparison-bundled-fallback",
+      "appliesOnlyWhen": "SUIT Variable 2.0.5 comparison mode is selected",
+      "sourceFamily": "SUIT Variable",
+      "fallbackFamily": "Pretendard Variable",
+      "fallbackVersion": "1.3.9",
+      "scope": {
+        "precomposedHangulRange": "U+AC00–U+D7A3",
+        "selectionRule": "Only code points absent from the bundled SUIT cmap within this range",
+        "missingPrecomposedHangulCount": 8504,
+        "additionalCodePoints": ["U+2014"]
+      },
+      "requirements": [
+        "Use the bundled Pretendard family for the declared missing characters.",
+        "Inspect the actual rendered font, mixed-font strokes, baseline, line height and wrapping.",
+        "Do not extend this exception to the default primary family or undocumented fallback ranges.",
+        "Font loading and cmap coverage alone cannot pass the rendering gate."
+      ],
+      "runtimeVerificationStatus": "pending",
+      "recordRequired": true
+    },
+    {
+      "kind": "intentional-ellipsis",
+      "requirements": [
+        "full text available by keyboard and pointer",
+        "no essential action or error instruction hidden"
+      ],
+      "recordRequired": true
+    }
+  ],
+  "gates": [
+    {
+      "id": "font-rendering",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "static-cmap-inspection",
+        "runtime-rendered-font-inspection",
+        "visual-review"
+      ],
+      "criteria": [
+        "Require all 11,172 modern precomposed Hangul syllables U+AC00–U+D7A3 in the single default primary family Pretendard Variable 1.3.9.",
+        "Inspect actual Hangul rendered fonts for the default Pretendard mode and SUIT comparison mode at weights 400, 500 and 600.",
+        "In SUIT comparison mode, verify the declared bundled Pretendard fallback for 8,504 missing Hangul syllables and U+2014; runtime verification remains pending until evidence is recorded.",
+        "Review mixed-script samples for legibility, stroke density, clipping and baseline alignment.",
+        "Do not infer NFD rendering failure from absent raw cmap entries; verify shaping and display separately.",
+        "Font file presence or document.fonts.check alone cannot pass this gate."
+      ],
+      "evidence": []
+    },
+    {
+      "id": "reflow-and-clipping",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "runtime-layout-measurement",
+        "visual-review",
+        "keyboard-interaction"
+      ],
+      "criteria": [
+        "Run listed viewports including 320 CSSpx width and 360 CSSpx height overlays.",
+        "Count unintended clipping, overlaps, page overflow and unreachable actions against zero thresholds.",
+        "Inspect nested clipping ancestors and overlays; document.scrollWidth alone is insufficient.",
+        "overflow:hidden may not conceal an unresolved layout failure."
+      ],
+      "sourceIds": [
+        "wcag-reflow"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "text-resize",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "runtime-text-resize",
+        "visual-review",
+        "keyboard-interaction"
+      ],
+      "criteria": [
+        "At 200% text size, preserve information and core operations including fields, errors and dialogs.",
+        "Do not reduce text size to make the enlarged layout pass.",
+        "Record the mechanism used to resize text separately from browser zoom and OS display scale."
+      ],
+      "sourceIds": [
+        "wcag-resize-text"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "text-spacing",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "runtime-user-style-override",
+        "visual-review",
+        "keyboard-interaction"
+      ],
+      "override": {
+        "lineHeight": 1.5,
+        "paragraphAfterEm": 2,
+        "letterSpacingEm": 0.12,
+        "wordSpacingEm": 0.16
+      },
+      "criteria": [
+        "Apply relevant spacing properties together without otherwise changing the authored design.",
+        "No loss of content or functionality under the spacing override.",
+        "These override values do not replace the typography baseline."
+      ],
+      "sourceIds": [
+        "wcag-text-spacing"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "actual-browser-zoom",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "actual-browser-ui-zoom",
+        "visual-review",
+        "keyboard-interaction"
+      ],
+      "criteria": [
+        "Run the actual browser zoom at 100%, 125%, 150% and 200%.",
+        "Record the applied zoom and resulting CSS viewport for each run.",
+        "Preserve core operations and avoid obscured focus or controls."
+      ],
+      "evidence": []
+    },
+    {
+      "id": "actual-windows-dpi",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "actual-windows-display-scale",
+        "visual-review",
+        "pointer-interaction"
+      ],
+      "criteria": [
+        "Run at actual Windows display scales 100%, 125%, 150% and 200%.",
+        "Record OS, monitor, resolution, scale and application runtime.",
+        "Check native window chrome, text, popups, pointer alignment and control boundaries."
+      ],
+      "evidence": []
+    },
+    {
+      "id": "long-content",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "runtime-fixture",
+        "visual-review",
+        "keyboard-interaction"
+      ],
+      "criteria": [
+        "Exercise 80-character Hangul titles, 200-character unbroken paths and multiline errors in lists, inspectors, tables, dialogs and toasts.",
+        "Essential text remains readable or explicitly revealable by keyboard and pointer.",
+        "Bottom actions remain reachable as content height grows."
+      ],
+      "evidence": []
+    },
+    {
+      "id": "hangul-input-and-normalization",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "actual-korean-ime",
+        "runtime-unicode-fixture",
+        "manual-roundtrip"
+      ],
+      "criteria": [
+        "Complete composition, confirmation, backspace and replacement using a real Korean IME.",
+        "Enter during composition must not execute an application command.",
+        "Paste, search, save and reopen NFC and NFD samples without text, selection or cursor corruption.",
+        "Preserve original paths and stored values unless a documented product normalization policy applies."
+      ],
+      "evidence": []
+    },
+    {
+      "id": "focus-and-reachability",
+      "required": true,
+      "status": "pending",
+      "methods": [
+        "keyboard-interaction",
+        "visual-review"
+      ],
+      "criteria": [
+        "Complete core actions using Tab, Shift+Tab, Enter and Escape.",
+        "Keep focused targets and focus indicators visible around fixed elements and overlays.",
+        "Verify modal focus containment, dismissal and restoration at low height and enlarged text.",
+        "A DOM element being present does not prove reachability."
+      ],
+      "evidence": []
+    }
+  ],
+  "evidenceRequirements": {
+    "requiredFields": [
+      "gateId",
+      "testedAt",
+      "tester",
+      "frameworkVersion",
+      "applicationOrDocument",
+      "runtimeVersion",
+      "osVersion",
+      "viewportCssPx",
+      "font",
+      "theme",
+      "density",
+      "textResizePercent",
+      "browserZoomPercent",
+      "windowsDisplayScalePercent",
+      "steps",
+      "observations",
+      "result",
+      "artifactPaths"
+    ],
+    "inapplicableFieldRule": "검사에 적용되지 않는 환경 필드는 null과 사유를 기록한다. 모르는 값을 통과 조건으로 추정하지 않는다.",
+    "resultValues": [
+      "passed",
+      "failed",
+      "pending",
+      "not-applicable"
+    ],
+    "requiredGateNotApplicableRule": "필수 게이트를 임의로 제외하지 않는다. 지원 플랫폼이나 제품 범위 때문에 제외할 경우 사유와 승인된 범위 변경을 기록하고 별도 규격 버전을 만든다.",
+    "staticOnlyCannotPassRelease": true,
+    "preparedTestCodeIsNotExecutionEvidence": true,
+    "oldVersionResultsCannotPassNewVersion": true
+  },
+  "assessment": {
+    "status": "pending",
+    "releasePassed": false,
+    "releaseBlockedBy": [
+      "font-rendering",
+      "reflow-and-clipping",
+      "text-resize",
+      "text-spacing",
+      "actual-browser-zoom",
+      "actual-windows-dpi",
+      "long-content",
+      "hangul-input-and-normalization",
+      "focus-and-reachability"
+    ],
+    "note": "1.1 규격과 확인 절차를 작성한 상태다. 이 개정의 GUI 실행·직접 시각 검수·실제 배율·IME 검증을 수행한 기록은 없다.",
+    "lastAssessedAt": null,
+    "releasePassRule": "Every required gate is passed with execution evidence for the current version, required visual/manual reviews are complete, and all zero thresholds are met. Static validation alone cannot set releasePassed to true."
+  },
+  "sources": [
+    {
+      "id": "suit-official-character-scope",
+      "title": "SUIT 공식 소개 — 한글 구성 범위",
+      "url": "https://sun.fo/suit/",
+      "supports": "SUIT의 한글 구성은 완성형 2,350자와 추가 318자로 총 2,668자다. 이 출처는 em dash 포함 여부나 실제 런타임 폴백 검증을 대신하지 않는다."
+    },
+    {
+      "id": "wcag-reflow",
+      "title": "W3C Understanding WCAG 2.2 SC 1.4.10 Reflow",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html",
+      "supports": "320 CSSpx equivalent width for vertically scrolling content; necessary two-dimensional layout exceptions."
+    },
+    {
+      "id": "wcag-resize-text",
+      "title": "W3C Understanding WCAG 2.2 SC 1.4.4 Resize Text",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html",
+      "supports": "Text enlargement up to 200% without loss of content or functionality."
+    },
+    {
+      "id": "wcag-text-spacing",
+      "title": "W3C Understanding WCAG 2.2 SC 1.4.12 Text Spacing",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html",
+      "supports": "Adaptation to user spacing overrides; these are not mandated default design values."
+    }
+  ]
+}

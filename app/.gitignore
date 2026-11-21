@@ -1,0 +1,11 @@
+.dev/
+target/
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+work/
+app/logs/
+app/data/
+app/launcher.exe
+outputs/

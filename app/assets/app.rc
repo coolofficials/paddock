@@ -1,0 +1,23 @@
+1 ICON "app.ico"
+1 24 "app.manifest"
+1 VERSIONINFO
+FILEVERSION APP_VERSION_PARTS
+PRODUCTVERSION APP_VERSION_PARTS
+FILEOS 0x40004
+FILETYPE 0x1
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "Paddock - Personal iRacing Launcher"
+            VALUE "ProductName", "Paddock"
+            VALUE "FileVersion", "APP_VERSION_TEXT"
+            VALUE "ProductVersion", "APP_VERSION_TEXT"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

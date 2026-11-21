@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#071119">
+  <meta name="description" content="Plan your iRacing week, launch your companion apps, and bring a focused native dashboard to your MOZA CM2. Meet Paddock 1.0.">
+  <meta property="og:title" content="Paddock · iRacing Companion">
+  <meta property="og:description" content="Your race week and companion apps, together. A Windows app and an optional MOZA CM2 dashboard.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://coolofficials.github.io/paddock/media/app-poster.png">
+  <link rel="icon" type="image/svg+xml" href="media/paddock.svg">
+  <link rel="stylesheet" href="style.css">
+  <title>Paddock · iRacing Companion</title>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav frame" aria-label="Main navigation">
+      <a class="brand" href="#top"><img src="media/paddock.svg" alt="" width="40" height="40"><span>Paddock</span></a>
+      <div class="nav-links"><a href="#app">The app</a><a href="#cm2">CM2 dash</a><a href="#setup">Get started</a><a href="https://github.com/coolofficials/paddock">GitHub</a></div>
+      <a class="button button-small nav-download" href="https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-1.0.0-Windows-x64.zip">Download 1.0</a>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="hero frame" id="top" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Paddock 1.0 <span class="separator">/</span> iRacing Companion</p>
+        <h1 id="hero-title">Your race week.<br><span>Ready to drive.</span></h1>
+        <p class="hero-intro">Pick the series you want to race. Bring your companion apps along. Paddock keeps the preparation in one place, so getting into the car takes fewer clicks.</p>
+        <div class="hero-actions"><a class="button" href="https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-1.0.0-Windows-x64.zip">Download Paddock</a><a class="text-link" href="#app-demo">Watch the app demo</a></div>
+        <p class="download-note">Windows x64 · WebView2 required · Source on GitHub</p>
+      </div>
+      <figure class="hero-image">
+        <div class="window-bar" aria-hidden="true"><span class="window-mark"></span><span>Paddock · iRacing Companion</span><span class="window-controls">— &nbsp; □ &nbsp; ×</span></div>
+        <a href="#app-demo" aria-label="Watch the Paddock app demo"><img src="media/app-poster.png" alt="Paddock showing the iRacing season planner, this week's lineup and companion app profiles" width="1360" height="850" fetchpriority="high"></a>
+        <figcaption>One workspace for the week ahead.</figcaption>
+      </figure>
+    </section>
+    <section class="intro-strip frame" aria-label="What is included">
+      <p><strong>A Windows companion.</strong><span>Plan sessions and manage your app setup.</span></p>
+      <p><strong>An optional CM2 dashboard.</strong><span>A native wheel display with the same Paddock feel.</span></p>
+      <p><strong>Use either, or both.</strong><span>The desktop app and dashboard work independently.</span></p>
+    </section>
+
+    <section class="section frame" id="app" aria-labelledby="app-title">
+      <div class="section-heading"><p class="eyebrow">The desktop app</p><h2 id="app-title">A little planning.<br>A much shorter pre-race routine.</h2><p>Keep the series you care about close, and the apps you need ready.</p></div>
+      <div class="app-story">
+        <div class="feature-explorer">
+          <div class="feature-tabs" role="tablist" aria-label="Explore Paddock features">
+            <button id="tab-planner" type="button" role="tab" aria-selected="true" aria-controls="panel-planner" tabindex="0">Plan</button>
+            <button id="tab-lineup" type="button" role="tab" aria-selected="false" aria-controls="panel-lineup" tabindex="-1">Choose</button>
+            <button id="tab-apps" type="button" role="tab" aria-selected="false" aria-controls="panel-apps" tabindex="-1">Launch</button>
+          </div>
+          <div class="feature-panel" id="panel-planner" role="tabpanel" aria-labelledby="tab-planner"><h3>Your whole season, within reach.</h3><p>Browse the official schedule, keep favorite series at the top, and check Plan for the weeks you want to drive.</p><ul><li>The current week is highlighted automatically.</li><li>Start and reset times follow your computer's timezone.</li><li>The catalog scrolls continuously, without page switching.</li></ul></div>
+          <div class="feature-panel" id="panel-lineup" role="tabpanel" aria-labelledby="tab-lineup" hidden><h3>Know what you're driving this week.</h3><p>This week's lineup brings your selected series, circuits and cars into a single view. Search and catalog filters don't make your lineup disappear.</p><ul><li>Collapse the summary when you want more room.</li><li>Click a series name to jump to its schedule.</li><li>A new season clears old plans while keeping favorites.</li></ul></div>
+          <div class="feature-panel" id="panel-apps" role="tabpanel" aria-labelledby="tab-apps" hidden><h3>Your setup, one launch away.</h3><p>Group companion apps into profiles. Pick detected apps from their default locations, or browse to an executable yourself.</p><ul><li>Choose Window or Background for each app.</li><li>Launch, stop, hide or show the included apps together.</li><li>App profiles are independent of the iRacing Planner.</li></ul></div>
+          <p class="small-link"><a href="#setup">See how to set it up</a></p>
+        </div>
+        <figure class="demo" id="app-demo">
+          <video controls playsinline preload="metadata" poster="media/app-poster.png" aria-label="Paddock desktop app demonstration" width="1360" height="850"><source src="media/app-demo.mp4" type="video/mp4"><p>Your browser cannot play this video. <a href="media/app-demo.mp4">Download the app demo.</a></p></video>
+          <figcaption><span>Paddock in use</span><span>Demonstration data · Windows app interface</span></figcaption>
+        </figure>
+      </div>
+      <div class="supported"><p class="eyebrow">Default-location detection</p><p>iRacing UI <span>·</span> SimHub <span>·</span> Trading Paints <span>·</span> Garage 61 <span>·</span> Edge Overlays <span>·</span> Crew Chief <span>·</span> GO Fast <span>·</span> MOZA Pit House</p><p class="muted">Nothing is added automatically. You choose the apps in each profile.</p></div>
+    </section>
+
+    <section class="dashboard-band" id="cm2" aria-labelledby="cm2-title">
+      <div class="frame section">
+        <div class="cm2-heading"><div><p class="eyebrow">Paddock CM2 <span class="separator">/</span> Optional wheel dashboard</p><h2 id="cm2-title">Keep your eyes<br>on the next corner.</h2></div><div class="cm2-intro"><p>A focused 1280 × 720 dashboard for the MOZA CM2, with a calm idle screen and the driving information that belongs in your cockpit.</p><a class="button button-secondary" href="https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-CM2-1.0.0.zip">Download CM2 dashboard</a></div></div>
+        <figure class="demo cm2-demo">
+          <video controls playsinline preload="metadata" poster="media/cm2-poster.png" aria-label="Paddock CM2 dashboard demonstration using simulated telemetry" width="1280" height="720"><source src="media/cm2-demo.mp4" type="video/mp4"><p>Your browser cannot play this video. <a href="media/cm2-demo.mp4">Download the CM2 demo.</a></p></video>
+          <figcaption><span>The native dashboard, in motion</span><span>Simulated telemetry · Not a recording of live driving</span></figcaption>
+        </figure>
+        <div class="dash-details"><div><h3>The essentials stay in view.</h3><p>Gear, speed and RPM, with brake and throttle bars beside the gear. Position, fuel and compact car-setting readouts keep the rest close.</p></div><div><h3>The right details, at the right time.</h3><p>Large temporary notices for flags and setting changes. Session time, qualifying lap information and recent lap numbers and times when the required data is available.</p></div><div><h3>Built for the display you own.</h3><p>A native <code>.mzdash</code> file for the MOZA CM2. Upload it through SimHub with the AZOM plugin. DNR integration supplies the recent-lap history.</p></div></div>
+        <p class="footnote">Available values depend on the car, session and telemetry source. The public dashboard uses original Paddock branding and editable driver identity. The CM2 hardware, SimHub, AZOM and DNR are separate products.</p>
+      </div>
+    </section>
+
+    <section class="section frame" id="setup" aria-labelledby="setup-title">
+      <div class="section-heading"><p class="eyebrow">Get started</p><h2 id="setup-title">Start with the app.<br>Add the dash when you're ready.</h2><p>Two downloads. No account to create in Paddock.</p></div>
+      <div class="setup-grid">
+        <article class="setup-column"><div class="setup-label"><img src="media/paddock.svg" alt="" width="40" height="40"><h3>Paddock for Windows</h3></div><ol><li><strong>Download and extract the ZIP.</strong><p>Keep <code>paddock.exe</code> and <code>WebView2Loader.dll</code> together in a folder you can write to. Retain the <code>data</code> folder when updating.</p></li><li><strong>Open Paddock and visit Apps.</strong><p>Add detected apps or use Browse executable. Set the launch mode and save the setup in a profile.</p></li><li><strong>Build your race week.</strong><p>Open Planner, refresh the official schedule, favorite your series and check Plan on the weeks you want to drive.</p></li></ol><p class="requirements">Requires Windows x64 and the <a href="https://developer.microsoft.com/microsoft-edge/webview2/">Microsoft Edge WebView2 Runtime</a>.</p><a class="button" href="https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-1.0.0-Windows-x64.zip">Download Windows app</a></article>
+        <article class="setup-column"><div class="setup-label"><span class="dash-glyph" aria-hidden="true">N</span><h3>Paddock CM2</h3></div><ol><li><strong>Get the display connection ready.</strong><p>Use a MOZA CM2 with SimHub and the AZOM plugin. Install the supported DNR integration if you want recent-lap history.</p></li><li><strong>Extract the dashboard package.</strong><p>The <code>.mzdash</code> is self-contained and needs no external images. Follow the included README to apply the supplied channel mappings.</p></li><li><strong>Upload and select the dashboard.</strong><p>Use AZOM's CM2 device file manager to upload the file, select it on the display, and enable dashboard telemetry.</p></li></ol><p class="requirements">Requires separate hardware and plugins. Paddock's Windows app is not required to run the dashboard.</p><a class="button button-secondary" href="https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-CM2-1.0.0.zip">Download CM2 package</a></article>
+      </div>
+    </section>
+
+    <section class="section frame faq-section" id="faq" aria-labelledby="faq-title">
+      <div><p class="eyebrow">A few useful answers</p><h2 id="faq-title">Before you<br>head out.</h2></div>
+      <div class="faq">
+        <details><summary>What happens when I close iRacing?</summary><p>Your companion apps stay open. Paddock closes the included apps when you choose Stop all. It does not use the iRacing UI closing as a signal to end your setup.</p></details>
+        <details><summary>What does Background mode do?</summary><p>It requests that the app's management window be hidden during startup. Once startup hiding is complete, reopening a window leaves it visible. A background app may still run its normal overlays or telemetry features; an unknown app's behavior may vary.</p><p>Trading Paints has a short, two-second startup wait before hiding, to allow its initial window and tray setup to finish.</p></details>
+        <details><summary>What if an app opens its window again after a session?</summary><p>Each app has an optional Advanced setting to re-hide its management window after the game exits. It is off by default. Edge Overlays is one example where this can be useful.</p><p>This is a timed, one-shot action. A management window you open manually during that interval may also be hidden, so enable it only when you want that behavior.</p></details>
+        <details><summary>Will a new season keep my old plans?</summary><p>Refreshing into another season clears the old season's Plan selections and undo history. Your series favorites and app profiles stay. Refreshing the same season keeps its plans.</p></details>
+        <details><summary>Where are my settings stored?</summary><p>Profiles, preferences and race plans are stored locally in Paddock's data folder. Paddock does not ask for your iRacing password. Schedule refresh downloads iRacing's publicly available schedule.</p></details>
+        <details><summary>Does the CM2 demo show live racing?</summary><p>No. It demonstrates the native dashboard using simulated telemetry so you can see its idle state, driving layout and notifications. The supplied dashboard uses live bindings when connected to your setup. Recent-lap history needs the supplied DNR channel mappings.</p></details>
+        <details><summary>Can I report an app that isn't detected or doesn't hide correctly?</summary><p>Yes. <a href="https://github.com/coolofficials/paddock/issues">Open a GitHub issue</a> with the app name, version, installation location and what you expected to happen. You can add an executable manually even if it is not in the detection catalog.</p></details>
+      </div>
+    </section>
+    <section class="download-close frame" aria-labelledby="close-title"><div><p class="eyebrow">Paddock 1.0</p><h2 id="close-title">Your next session starts here.</h2><p>Download the release, make a profile, and set up your next race week.</p></div><a class="button" href="https://github.com/coolofficials/paddock/releases/latest">Get the latest release</a></section>
+  </main>
+  <footer class="frame footer"><a class="brand" href="#top"><img src="media/paddock.svg" alt="" width="32" height="32"><span>Paddock</span></a><p>An independent iRacing companion.<br>Not affiliated with or endorsed by iRacing, MOZA or the companion apps mentioned here.</p><div><a href="https://github.com/coolofficials/paddock">Source</a><a href="https://github.com/coolofficials/paddock/releases">Releases</a><a href="https://github.com/coolofficials/paddock/issues">Issues</a><a href="https://github.com/coolofficials/paddock/blob/main/THIRD_PARTY_NOTICES.md">Credits</a></div></footer>
+  <script src="script.js"></script>
+</body>
+</html>

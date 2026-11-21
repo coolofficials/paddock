@@ -1,0 +1,31 @@
+app/.dev/
+app/target/
+app/frontend/node_modules/
+app/frontend/dist/
+app/frontend/test-results/
+app/frontend/playwright-report/
+app/work/
+app/outputs/
+app/app/
+outputs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Retired personal-version modules and authoring references
+app/src/backup_ui.rs
+app/src/settings_backup.rs
+app/src/settings_backup_tests.rs
+app/src/settings_catalog.rs
+app/src/settings_editor.rs
+app/src/settings_editor_tests.rs
+app/src/value_dialog.rs
+app/src/track_dialog.rs
+app/assets/settings-menu-coverage.json
+app/scripts/build-track-maps.py
+app/scripts/test-track-maps.py
+app/scripts/verify-framework.ps1
+app/assets/framework/IMPLEMENTATION-PROMPT.txt
+
+# Optional CI templates kept locally (not required for branch-based Pages)
+.github/workflows/

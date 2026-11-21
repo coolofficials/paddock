@@ -1,0 +1,23 @@
+Desktop UI Framework 1.0 — bundled third-party materials
+
+Pretendard Variable 1.3.9
+Source: https://github.com/orioncactus/pretendard
+License: SIL Open Font License 1.1, including reserved font names.
+License file: Pretendard-OFL.txt
+Bundled font: assets/fonts/PretendardVariable.woff2
+
+Lucide Static 0.468.0
+Source: https://github.com/lucide-icons/lucide
+License: ISC; Feather-derived portions MIT.
+License files: Lucide-LICENSE.txt and Feather-MIT.txt
+Bundled files: assets/icons/*.svg and copies embedded in index.html.
+The SVG artwork is used without artwork modifications. Display size, stroke and color are controlled by CSS.
+
+Radix Colors 3.0.0
+Source: https://github.com/radix-ui/colors
+License: MIT, WorkOS.
+License file: Radix-Colors-MIT.txt
+Bundled values: tokens.json primitives and the semantic mappings in styles/tokens.css.
+Some semantic mappings use custom values for contrast and role suitability.
+
+Keep the corresponding license texts and copyright notices when distributing these materials.

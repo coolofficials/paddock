@@ -1,0 +1,7 @@
+Schedule fixtures in this directory are hand-authored parser and layout test data.
+They are not an official iRacing schedule and must not be used to plan races.
+The first eight series identifiers and one circuit name exercise legacy compatibility.
+All weekly arrangements, remaining series, cars, and circuit layouts are invented.
+The fixture year remains 2026 solely for deterministic date-boundary regression tests.
+Normal public startup does not load these fixtures. Refresh downloads the official
+schedule into the user's private application data directory.

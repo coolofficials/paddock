@@ -1,0 +1,177 @@
+{
+  "season": "2026-S4",
+  "source": "https://members-assets.iracing.com/public/schedulepdf/SeasonSchedule.pdf",
+  "fetched_at": "2026-09-01T00:00:00Z",
+  "weeks": [
+    {
+      "number": 1,
+      "start": "2026-09-15",
+      "tracks": [
+        "Test Circuit 001 - Layout 1",
+        "Test Circuit 002 - Layout 1",
+        "Test Circuit 003 - Layout 1",
+        "Test Circuit 004 - Layout 1",
+        "Test Circuit 005 - Layout 1",
+        "Test Circuit 006 - Layout 1",
+        "Test Circuit 007 - Layout 1",
+        "Test Circuit 008 - Layout 1"
+      ]
+    },
+    {
+      "number": 2,
+      "start": "2026-09-22",
+      "tracks": [
+        "Test Circuit 001 - Layout 2",
+        "Test Circuit 002 - Layout 2",
+        "Test Circuit 003 - Layout 2",
+        "Test Circuit 004 - Layout 2",
+        "Test Circuit 005 - Layout 2",
+        "Test Circuit 006 - Layout 2",
+        "Test Circuit 007 - Layout 2",
+        "Test Circuit 008 - Layout 2"
+      ]
+    },
+    {
+      "number": 3,
+      "start": "2026-09-29",
+      "tracks": [
+        "Test Circuit 001 - Layout 3",
+        "Test Circuit 002 - Layout 3",
+        "Test Circuit 003 - Layout 3",
+        "Test Circuit 004 - Layout 3",
+        "Test Circuit 005 - Layout 3",
+        "Test Circuit 006 - Layout 3",
+        "Test Circuit 007 - Layout 3",
+        "Test Circuit 008 - Layout 3"
+      ]
+    },
+    {
+      "number": 4,
+      "start": "2026-10-06",
+      "tracks": [
+        "Test Circuit 001 - Layout 4",
+        "Test Circuit 002 - Layout 4",
+        "Test Circuit 003 - Layout 4",
+        "Test Circuit 004 - Layout 4",
+        "Test Circuit 005 - Layout 4",
+        "Test Circuit 006 - Layout 4",
+        "Test Circuit 007 - Layout 4",
+        "Test Circuit 008 - Layout 4"
+      ]
+    },
+    {
+      "number": 5,
+      "start": "2026-10-13",
+      "tracks": [
+        "Test Circuit 001 - Layout 5",
+        "Test Circuit 002 - Layout 5",
+        "Test Circuit 003 - Layout 5",
+        "Road America - Full Course",
+        "Road America - Full Course",
+        "Test Circuit 006 - Layout 5",
+        "Test Circuit 007 - Layout 5",
+        "Test Circuit 008 - Layout 5"
+      ]
+    },
+    {
+      "number": 6,
+      "start": "2026-10-20",
+      "tracks": [
+        "Test Circuit 001 - Layout 6",
+        "Test Circuit 002 - Layout 6",
+        "Test Circuit 003 - Layout 6",
+        "Test Circuit 004 - Layout 6",
+        "Test Circuit 005 - Layout 6",
+        "Test Circuit 006 - Layout 6",
+        "Test Circuit 007 - Layout 6",
+        "Test Circuit 008 - Layout 6"
+      ]
+    },
+    {
+      "number": 7,
+      "start": "2026-10-27",
+      "tracks": [
+        "Test Circuit 001 - Layout 7",
+        "Test Circuit 002 - Layout 7",
+        "Test Circuit 003 - Layout 7",
+        "Test Circuit 004 - Layout 7",
+        "Test Circuit 005 - Layout 7",
+        "Test Circuit 006 - Layout 7",
+        "Test Circuit 007 - Layout 7",
+        "Test Circuit 008 - Layout 7"
+      ]
+    },
+    {
+      "number": 8,
+      "start": "2026-11-03",
+      "tracks": [
+        "Test Circuit 001 - Layout 8",
+        "Test Circuit 002 - Layout 8",
+        "Test Circuit 003 - Layout 8",
+        "Test Circuit 004 - Layout 8",
+        "Test Circuit 005 - Layout 8",
+        "Test Circuit 006 - Layout 8",
+        "Test Circuit 007 - Layout 8",
+        "Test Circuit 008 - Layout 8"
+      ]
+    },
+    {
+      "number": 9,
+      "start": "2026-11-10",
+      "tracks": [
+        "Test Circuit 001 - Layout 9",
+        "Test Circuit 002 - Layout 9",
+        "Test Circuit 003 - Layout 9",
+        "Test Circuit 004 - Layout 9",
+        "Test Circuit 005 - Layout 9",
+        "Test Circuit 006 - Layout 9",
+        "Test Circuit 007 - Layout 9",
+        "Test Circuit 008 - Layout 9"
+      ]
+    },
+    {
+      "number": 10,
+      "start": "2026-11-17",
+      "tracks": [
+        "Test Circuit 001 - Layout 10",
+        "Test Circuit 002 - Layout 10",
+        "Test Circuit 003 - Layout 10",
+        "Test Circuit 004 - Layout 10",
+        "Test Circuit 005 - Layout 10",
+        "Test Circuit 006 - Layout 10",
+        "Test Circuit 007 - Layout 10",
+        "Test Circuit 008 - Layout 10"
+      ]
+    },
+    {
+      "number": 11,
+      "start": "2026-11-24",
+      "tracks": [
+        "Test Circuit 001 - Layout 11",
+        "Test Circuit 002 - Layout 11",
+        "Test Circuit 003 - Layout 11",
+        "Test Circuit 004 - Layout 11",
+        "Test Circuit 005 - Layout 11",
+        "Test Circuit 006 - Layout 11",
+        "Test Circuit 007 - Layout 11",
+        "Test Circuit 008 - Layout 11"
+      ]
+    },
+    {
+      "number": 12,
+      "start": "2026-12-01",
+      "tracks": [
+        "Test Circuit 001 - Layout 12",
+        "Test Circuit 002 - Layout 12",
+        "Test Circuit 003 - Layout 12",
+        "Test Circuit 004 - Layout 12",
+        "Test Circuit 005 - Layout 12",
+        "Test Circuit 006 - Layout 12",
+        "Test Circuit 007 - Layout 12",
+        "Test Circuit 008 - Layout 12"
+      ]
+    }
+  ],
+  "catalog": [],
+  "catalog_count": 0
+}

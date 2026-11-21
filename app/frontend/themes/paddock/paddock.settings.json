@@ -1,0 +1,78 @@
+{
+  "name": "paddock",
+  "like": "neutral",
+  "mode": "both",
+  "settings": [
+    {
+      "thing": "accent",
+      "value": "#2BBFCF",
+      "source": "dial"
+    },
+    {
+      "thing": "border",
+      "value": "1px solid var(--color-border)",
+      "source": "property",
+      "on": "button",
+      "when": "variant:secondary"
+    },
+    {
+      "thing": "--color-accent",
+      "value": "#007c8a",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "--color-on-accent",
+      "value": "#ffffff",
+      "source": "token",
+      "mode": "light"
+    },
+    {
+      "thing": "padding-block",
+      "value": "0",
+      "source": "property",
+      "on": "button"
+    },
+    {
+      "thing": "gap",
+      "value": "var(--spacing-2)",
+      "source": "property",
+      "on": "button"
+    },
+    {
+      "thing": "gap",
+      "value": "var(--spacing-3)",
+      "source": "property",
+      "on": "collapsible-trigger"
+    },
+    {
+      "thing": "padding-block-start",
+      "value": "var(--spacing-4)",
+      "source": "property",
+      "on": "collapsible-content"
+    },
+    {
+      "thing": "height",
+      "value": "max(var(--size-element-sm), calc(1rem + var(--spacing-3)))",
+      "source": "property",
+      "on": "button",
+      "when": "size:sm"
+    },
+    {
+      "thing": "height",
+      "value": "max(var(--size-element-md), calc(1rem + var(--spacing-4)))",
+      "source": "property",
+      "on": "button",
+      "when": "size:md"
+    },
+    {
+      "thing": "height",
+      "value": "max(var(--size-element-lg), calc(1rem + var(--spacing-5)))",
+      "source": "property",
+      "on": "button",
+      "when": "size:lg"
+    }
+  ],
+  "lifted": [],
+  "palette": "ab909b469160bafe91f8f804faffed80f7c2608a73c567c74e1c96a3854ec6c4"
+}

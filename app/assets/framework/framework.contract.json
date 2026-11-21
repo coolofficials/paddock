@@ -1,0 +1,126 @@
+{
+  "name": "Desktop UI Framework",
+  "version": "1.1.0",
+  "intent": "차분한 생산성 도구",
+  "sourceOfTruth": [
+    "DESIGN-SPEC.html",
+    "tokens.json",
+    "quality-gates.json"
+  ],
+  "fixed": {
+    "uiFont": "Pretendard Variable",
+    "icons": "Lucide",
+    "neutralPalette": "Slate",
+    "accentPalette": "Indigo",
+    "colorAccess": "semantic token names only",
+    "spacingUnit": "4px",
+    "themes": [
+      "system",
+      "light",
+      "dark"
+    ],
+    "defaultTheme": "system",
+    "densities": [
+      "comfortable",
+      "compact"
+    ],
+    "defaultDensity": "comfortable",
+    "essentialTextContrast": 4.5,
+    "functionalNonTextContrast": 3,
+    "statusEncoding": "text or icon plus color",
+    "defaultWindowChrome": "platform native",
+    "minimumEssentialFontPx": 15,
+    "readingFontPx": 16,
+    "readingLineHeight": 1.8,
+    "minimumSupportingFontPx": 13,
+    "koreanLetterSpacing": "0",
+    "comparisonFont": "SUIT Variable with declared bundled Pretendard fallback"
+  },
+  "layoutPatterns": [
+    "list-detail",
+    "editor",
+    "small-utility"
+  ],
+  "perAppChoices": [
+    "product-name",
+    "product-icon",
+    "layout-pattern",
+    "domain-fields",
+    "filters",
+    "content",
+    "media-and-charts"
+  ],
+  "componentStates": {
+    "button": [
+      "default",
+      "hover",
+      "pressed",
+      "focus",
+      "disabled",
+      "pending"
+    ],
+    "input": [
+      "default",
+      "focus",
+      "invalid",
+      "disabled"
+    ],
+    "collection": [
+      "populated",
+      "empty",
+      "no-results",
+      "loading",
+      "error"
+    ],
+    "editor": [
+      "saved",
+      "dirty",
+      "saving",
+      "save-failed"
+    ]
+  },
+  "interactionRules": {
+    "primaryActions": "one per task region",
+    "deletion": "archive and undo when reversible; explicit target and consequence for irreversible deletion",
+    "unsavedChanges": "preserve or explicitly resolve on navigation and close",
+    "dialogFocus": "enter appropriately; wrap Tab; restore focus on close",
+    "ime": "do not execute commands while composing",
+    "reducedMotion": "disable positional animation",
+    "actionableNotifications": "do not auto-dismiss"
+  },
+  "shortcuts": {
+    "Mod+K": "app command search",
+    "Mod+F": "current area search",
+    "Mod+N": "create current item",
+    "Mod+S": "explicit editor save",
+    "Mod+Z": "native text undo in editable fields; supported app undo elsewhere",
+    "Escape": "close topmost temporary surface"
+  },
+  "implementation": {
+    "reference": "HTML CSS JavaScript",
+    "runtime": "not selected",
+    "nativeMapping": "map the same semantic tokens and interactions to platform resources",
+    "dataLayer": "implemented separately for each real app"
+  },
+  "changePolicy": "update shared tokens, documentation and version together",
+  "requiredReview": [
+    "both themes",
+    "both densities",
+    "keyboard only",
+    "small window",
+    "200 percent text size",
+    "contrast on actual surfaces",
+    "empty and error states",
+    "save and recovery",
+    "asset notices",
+    "standalone DESIGN-SPEC.html",
+    "320 CSS px reflow",
+    "360px viewport height",
+    "text spacing override",
+    "actual browser zoom and Windows DPI separately",
+    "actual Korean glyph font and IME",
+    "clipping, overlap and reachable dialog actions",
+    "long Korean titles and unbroken file paths"
+  ],
+  "releasePolicy": "Every required quality gate needs matching-version evidence. Pending checks block release approval. Static checks and font load alone never certify rendering."
+}

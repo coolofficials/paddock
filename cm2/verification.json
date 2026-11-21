@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "bindingEvaluations": 528,
+  "nativePreviewScenarios": 8,
+  "imageResources": 0,
+  "physicalDeviceVerified": false,
+  "publicIdentity": "Paddock / DRIVER / 01",
+  "privateAssetsRemoved": true,
+  "nodeCount": 78,
+  "liveTelemetryBindings": 66,
+  "preservedOriginalBindings": 55,
+  "changedOriginalBindings": 0,
+  "customizationTested": true,
+  "dashboardSha256": "0b30976216c991c4325b1894d79e2d106a1d7320d90710baece806fe8d61964b",
+  "demo": {
+    "durationSeconds": 40.5,
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "codec": "H264",
+    "pixelFormat": "yuv420p",
+    "audio": false,
+    "fullDecodePassed": true,
+    "telemetry": "simulated"
+  },
+  "mappingPreviewFixturePassed": true,
+  "unrelatedSettingsPreservedInFixture": true
+}

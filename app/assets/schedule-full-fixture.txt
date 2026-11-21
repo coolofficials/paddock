@@ -1,0 +1,4778 @@
+PADDOCK SYNTHETIC PARSER FIXTURE - NOT AN OFFICIAL SCHEDULE
+Hand-authored test data; no season PDF content is redistributed.
+
+R Class Series (SPORTS CAR) . . . 1
+Global Mazda MX-5 Cup - 2026 Season 4 . . . 1
+D Class Series (SPORTS CAR) . . . 1
+Toyota GR86 Cup by SIMAGIC - 2026 Season 4 . . . 1
+D Class Series (FORMULA CAR) . . . 1
+FIA Formula 4 Challenge - Fixed - 2026 Season 4 . . . 1
+C Class Series (SPORTS CAR) . . . 1
+iRacing Porsche Cup - Fixed - 2026 Season 4 . . . 1
+C Class Series (SPORTS CAR) . . . 1
+iRacing Porsche Cup - 2026 Season 4 . . . 1
+D Class Series (FORMULA CAR) . . . 1
+FIA F4 Esports Regional Tour - America - 2026 Season 4 . . . 1
+D Class Series (FORMULA CAR) . . . 1
+FIA F4 Esports Regional Tour - Asia Pacific - 2026 Season 4 . . . 1
+D Class Series (FORMULA CAR) . . . 1
+FIA F4 Esports Regional Tour - Europe - 2026 Season 4 . . . 1
+D Class Series (SPORTS CAR) . . . 1
+BMW M2 Cup - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 010 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 011 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 012 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 013 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 014 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 015 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 016 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 017 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 018 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 019 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 020 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 021 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 022 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 023 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 024 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 025 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 026 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 027 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 028 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 029 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 030 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 031 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 032 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 033 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 034 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 035 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 036 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 037 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 038 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 039 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 040 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 041 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 042 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 043 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 044 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 045 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 046 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 047 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 048 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 049 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 050 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 051 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 052 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 053 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 054 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 055 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 056 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 057 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 058 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 059 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 060 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 061 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 062 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 063 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 064 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 065 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 066 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 067 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 068 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 069 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 070 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 071 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 072 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 073 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 074 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 075 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 076 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 077 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 078 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 079 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 080 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 081 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 082 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 083 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 084 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 085 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 086 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 087 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 088 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 089 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 090 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 091 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 092 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 093 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 094 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 095 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 096 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 097 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 098 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 099 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 100 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 101 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 102 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 103 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 104 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 105 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 106 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 107 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 108 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 109 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 110 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 111 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 112 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 113 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 114 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 115 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 116 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 117 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 118 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 119 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 120 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 121 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 122 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 123 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 124 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 125 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 126 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 127 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 128 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 129 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 130 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 131 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 132 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 133 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 134 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 135 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 136 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 137 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 138 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 139 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 140 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 141 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 142 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 143 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 144 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 145 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 146 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 147 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 148 - 2026 Season 4 . . . 1
+R Class Series (FORMULA CAR) . . . 1
+Paddock Synthetic Series 149 - 2026 Season 4 . . . 1
+R Class Series (OVAL) . . . 1
+Paddock Synthetic Series 150 - 2026 Season 4 . . . 1
+R Class Series (DIRT OVAL) . . . 1
+Paddock Synthetic Series 151 - 2026 Season 4 . . . 1
+R Class Series (DIRT ROAD) . . . 1
+Paddock Synthetic Series 152 - 2026 Season 4 . . . 1
+R Class Series (UNRANKED) . . . 1
+Paddock Synthetic Series 153 - 2026 Season 4 . . . 1
+R Class Series (SPORTS CAR) . . . 1
+Paddock Synthetic Series 154 - 2026 Season 4 . . . 1
+
+Global Mazda MX-5 Cup - 2026 Season 4
+Global Mazda MX-5 Cup
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 001 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 001 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 001 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 001 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 001 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 001 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 001 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 001 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 001 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 001 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 001 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 001 - Layout 12
+(Test session)
+
+Toyota GR86 Cup by SIMAGIC - 2026 Season 4
+Toyota GR86
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 002 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 002 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 002 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 002 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 002 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 002 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 002 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 002 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 002 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 002 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 002 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 002 - Layout 12
+(Test session)
+
+FIA Formula 4 Challenge - Fixed - 2026 Season 4
+FIA F4
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 003 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 003 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 003 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 003 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 003 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 003 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 003 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 003 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 003 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 003 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 003 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 003 - Layout 12
+(Test session)
+
+iRacing Porsche Cup - Fixed - 2026 Season 4
+Porsche Cup
+Class D 4.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 004 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 004 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 004 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 004 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Road America - Full Course
+(Test session)
+Week 6 (2026-10-20) Test Circuit 004 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 004 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 004 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 004 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 004 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 004 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 004 - Layout 12
+(Test session)
+
+iRacing Porsche Cup - 2026 Season 4
+Porsche Cup
+Class D 4.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 005 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 005 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 005 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 005 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Road America - Full Course
+(Test session)
+Week 6 (2026-10-20) Test Circuit 005 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 005 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 005 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 005 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 005 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 005 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 005 - Layout 12
+(Test session)
+
+FIA F4 Esports Regional Tour - America - 2026 Season 4
+FIA F4
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 006 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 006 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 006 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 006 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 006 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 006 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 006 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 006 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 006 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 006 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 006 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 006 - Layout 12
+(Test session)
+
+FIA F4 Esports Regional Tour - Asia Pacific - 2026 Season 4
+FIA F4
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 007 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 007 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 007 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 007 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 007 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 007 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 007 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 007 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 007 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 007 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 007 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 007 - Layout 12
+(Test session)
+
+FIA F4 Esports Regional Tour - Europe - 2026 Season 4
+FIA F4
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 008 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 008 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 008 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 008 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 008 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 008 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 008 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 008 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 008 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 008 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 008 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 008 - Layout 12
+(Test session)
+
+BMW M2 Cup - 2026 Season 4
+BMW M2
+Class D 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 009 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 009 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 009 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 009 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 009 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 009 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 009 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 009 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 009 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 009 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 009 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 009 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 010 - 2026 Season 4
+Synthetic Car 10
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 010 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 010 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 010 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 010 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 010 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 010 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 010 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 010 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 010 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 010 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 010 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 010 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 011 - 2026 Season 4
+Synthetic Car 11
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 011 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 011 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 011 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 011 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 011 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 011 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 011 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 011 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 011 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 011 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 011 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 011 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 012 - 2026 Season 4
+Synthetic Car 12
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 012 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 012 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 012 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 012 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 012 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 012 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 012 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 012 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 012 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 012 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 012 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 012 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 013 - 2026 Season 4
+Synthetic Car 13
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 013 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 013 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 013 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 013 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 013 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 013 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 013 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 013 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 013 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 013 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 013 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 013 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 014 - 2026 Season 4
+Synthetic Car 14
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 014 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 014 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 014 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 014 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 014 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 014 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 014 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 014 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 014 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 014 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 014 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 014 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 015 - 2026 Season 4
+Synthetic Car 15
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 015 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 015 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 015 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 015 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 015 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 015 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 015 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 015 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 015 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 015 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 015 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 015 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 016 - 2026 Season 4
+Synthetic Car 16
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 016 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 016 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 016 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 016 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 016 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 016 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 016 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 016 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 016 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 016 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 016 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 016 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 017 - 2026 Season 4
+Synthetic Car 17
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 017 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 017 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 017 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 017 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 017 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 017 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 017 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 017 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 017 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 017 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 017 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 017 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 018 - 2026 Season 4
+Synthetic Car 18
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 018 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 018 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 018 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 018 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 018 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 018 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 018 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 018 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 018 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 018 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 018 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 018 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 019 - 2026 Season 4
+Synthetic Car 19
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 019 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 019 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 019 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 019 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 019 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 019 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 019 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 019 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 019 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 019 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 019 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 019 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 020 - 2026 Season 4
+Synthetic Car 20
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 020 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 020 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 020 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 020 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 020 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 020 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 020 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 020 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 020 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 020 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 020 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 020 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 021 - 2026 Season 4
+Synthetic Car 21
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 021 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 021 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 021 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 021 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 021 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 021 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 021 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 021 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 021 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 021 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 021 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 021 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 022 - 2026 Season 4
+Synthetic Car 22
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 022 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 022 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 022 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 022 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 022 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 022 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 022 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 022 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 022 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 022 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 022 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 022 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 023 - 2026 Season 4
+Synthetic Car 23
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 023 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 023 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 023 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 023 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 023 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 023 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 023 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 023 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 023 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 023 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 023 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 023 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 024 - 2026 Season 4
+Synthetic Car 24
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 024 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 024 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 024 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 024 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 024 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 024 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 024 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 024 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 024 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 024 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 024 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 024 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 025 - 2026 Season 4
+Synthetic Car 25
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 025 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 025 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 025 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 025 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 025 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 025 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 025 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 025 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 025 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 025 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 025 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 025 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 026 - 2026 Season 4
+Synthetic Car 26
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 026 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 026 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 026 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 026 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 026 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 026 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 026 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 026 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 026 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 026 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 026 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 026 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 027 - 2026 Season 4
+Synthetic Car 27
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 027 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 027 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 027 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 027 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 027 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 027 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 027 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 027 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 027 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 027 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 027 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 027 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 028 - 2026 Season 4
+Synthetic Car 28
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 028 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 028 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 028 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 028 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 028 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 028 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 028 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 028 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 028 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 028 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 028 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 028 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 029 - 2026 Season 4
+Synthetic Car 29
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 029 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 029 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 029 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 029 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 029 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 029 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 029 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 029 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 029 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 029 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 029 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 029 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 030 - 2026 Season 4
+Synthetic Car 30
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 030 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 030 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 030 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 030 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 030 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 030 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 030 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 030 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 030 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 030 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 030 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 030 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 031 - 2026 Season 4
+Synthetic Car 31
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 031 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 031 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 031 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 031 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 031 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 031 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 031 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 031 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 031 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 031 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 031 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 031 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 032 - 2026 Season 4
+Synthetic Car 32
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 032 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 032 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 032 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 032 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 032 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 032 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 032 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 032 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 032 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 032 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 032 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 032 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 033 - 2026 Season 4
+Synthetic Car 33
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 033 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 033 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 033 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 033 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 033 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 033 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 033 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 033 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 033 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 033 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 033 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 033 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 034 - 2026 Season 4
+Synthetic Car 34
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 034 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 034 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 034 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 034 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 034 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 034 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 034 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 034 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 034 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 034 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 034 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 034 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 035 - 2026 Season 4
+Synthetic Car 35
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 035 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 035 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 035 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 035 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 035 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 035 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 035 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 035 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 035 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 035 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 035 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 035 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 036 - 2026 Season 4
+Synthetic Car 36
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 036 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 036 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 036 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 036 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 036 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 036 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 036 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 036 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 036 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 036 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 036 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 036 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 037 - 2026 Season 4
+Synthetic Car 37
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 037 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 037 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 037 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 037 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 037 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 037 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 037 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 037 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 037 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 037 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 037 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 037 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 038 - 2026 Season 4
+Synthetic Car 38
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 038 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 038 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 038 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 038 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 038 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 038 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 038 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 038 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 038 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 038 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 038 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 038 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 039 - 2026 Season 4
+Synthetic Car 39
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 039 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 039 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 039 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 039 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 039 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 039 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 039 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 039 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 039 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 039 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 039 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 039 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 040 - 2026 Season 4
+Synthetic Car 40
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 040 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 040 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 040 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 040 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 040 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 040 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 040 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 040 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 040 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 040 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 040 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 040 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 041 - 2026 Season 4
+Synthetic Car 41
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 041 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 041 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 041 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 041 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 041 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 041 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 041 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 041 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 041 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 041 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 041 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 041 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 042 - 2026 Season 4
+Synthetic Car 42
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 042 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 042 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 042 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 042 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 042 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 042 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 042 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 042 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 042 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 042 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 042 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 042 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 043 - 2026 Season 4
+Synthetic Car 43
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 043 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 043 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 043 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 043 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 043 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 043 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 043 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 043 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 043 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 043 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 043 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 043 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 044 - 2026 Season 4
+Synthetic Car 44
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 044 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 044 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 044 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 044 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 044 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 044 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 044 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 044 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 044 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 044 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 044 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 044 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 045 - 2026 Season 4
+Synthetic Car 45
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 045 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 045 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 045 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 045 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 045 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 045 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 045 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 045 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 045 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 045 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 045 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 045 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 046 - 2026 Season 4
+Synthetic Car 46
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 046 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 046 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 046 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 046 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 046 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 046 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 046 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 046 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 046 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 046 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 046 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 046 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 047 - 2026 Season 4
+Synthetic Car 47
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 047 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 047 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 047 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 047 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 047 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 047 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 047 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 047 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 047 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 047 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 047 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 047 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 048 - 2026 Season 4
+Synthetic Car 48
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 048 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 048 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 048 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 048 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 048 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 048 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 048 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 048 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 048 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 048 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 048 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 048 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 049 - 2026 Season 4
+Synthetic Car 49
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 049 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 049 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 049 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 049 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 049 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 049 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 049 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 049 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 049 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 049 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 049 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 049 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 050 - 2026 Season 4
+Synthetic Car 50
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 050 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 050 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 050 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 050 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 050 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 050 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 050 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 050 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 050 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 050 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 050 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 050 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 051 - 2026 Season 4
+Synthetic Car 51
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 051 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 051 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 051 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 051 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 051 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 051 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 051 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 051 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 051 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 051 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 051 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 051 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 052 - 2026 Season 4
+Synthetic Car 52
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 052 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 052 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 052 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 052 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 052 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 052 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 052 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 052 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 052 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 052 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 052 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 052 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 053 - 2026 Season 4
+Synthetic Car 53
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 053 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 053 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 053 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 053 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 053 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 053 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 053 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 053 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 053 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 053 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 053 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 053 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 054 - 2026 Season 4
+Synthetic Car 54
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 054 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 054 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 054 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 054 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 054 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 054 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 054 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 054 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 054 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 054 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 054 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 054 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 055 - 2026 Season 4
+Synthetic Car 55
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 055 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 055 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 055 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 055 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 055 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 055 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 055 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 055 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 055 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 055 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 055 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 055 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 056 - 2026 Season 4
+Synthetic Car 56
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 056 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 056 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 056 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 056 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 056 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 056 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 056 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 056 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 056 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 056 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 056 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 056 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 057 - 2026 Season 4
+Synthetic Car 57
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 057 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 057 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 057 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 057 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 057 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 057 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 057 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 057 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 057 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 057 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 057 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 057 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 058 - 2026 Season 4
+Synthetic Car 58
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 058 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 058 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 058 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 058 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 058 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 058 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 058 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 058 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 058 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 058 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 058 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 058 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 059 - 2026 Season 4
+Synthetic Car 59
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 059 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 059 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 059 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 059 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 059 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 059 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 059 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 059 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 059 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 059 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 059 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 059 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 060 - 2026 Season 4
+Synthetic Car 60
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 060 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 060 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 060 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 060 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 060 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 060 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 060 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 060 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 060 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 060 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 060 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 060 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 061 - 2026 Season 4
+Synthetic Car 61
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 061 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 061 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 061 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 061 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 061 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 061 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 061 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 061 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 061 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 061 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 061 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 061 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 062 - 2026 Season 4
+Synthetic Car 62
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 062 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 062 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 062 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 062 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 062 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 062 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 062 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 062 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 062 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 062 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 062 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 062 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 063 - 2026 Season 4
+Synthetic Car 63
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 063 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 063 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 063 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 063 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 063 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 063 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 063 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 063 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 063 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 063 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 063 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 063 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 064 - 2026 Season 4
+Synthetic Car 64
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 064 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 064 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 064 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 064 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 064 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 064 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 064 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 064 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 064 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 064 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 064 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 064 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 065 - 2026 Season 4
+Synthetic Car 65
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 065 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 065 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 065 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 065 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 065 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 065 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 065 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 065 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 065 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 065 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 065 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 065 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 066 - 2026 Season 4
+Synthetic Car 66
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 066 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 066 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 066 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 066 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 066 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 066 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 066 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 066 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 066 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 066 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 066 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 066 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 067 - 2026 Season 4
+Synthetic Car 67
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 067 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 067 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 067 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 067 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 067 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 067 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 067 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 067 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 067 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 067 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 067 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 067 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 068 - 2026 Season 4
+Synthetic Car 68
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 068 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 068 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 068 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 068 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 068 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 068 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 068 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 068 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 068 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 068 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 068 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 068 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 069 - 2026 Season 4
+Synthetic Car 69
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 069 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 069 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 069 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 069 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 069 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 069 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 069 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 069 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 069 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 069 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 069 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 069 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 070 - 2026 Season 4
+Synthetic Car 70
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 070 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 070 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 070 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 070 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 070 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 070 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 070 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 070 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 070 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 070 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 070 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 070 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 071 - 2026 Season 4
+Synthetic Car 71
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 071 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 071 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 071 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 071 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 071 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 071 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 071 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 071 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 071 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 071 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 071 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 071 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 072 - 2026 Season 4
+Synthetic Car 72
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 072 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 072 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 072 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 072 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 072 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 072 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 072 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 072 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 072 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 072 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 072 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 072 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 073 - 2026 Season 4
+Synthetic Car 73
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 073 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 073 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 073 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 073 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 073 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 073 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 073 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 073 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 073 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 073 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 073 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 073 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 074 - 2026 Season 4
+Synthetic Car 74
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 074 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 074 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 074 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 074 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 074 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 074 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 074 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 074 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 074 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 074 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 074 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 074 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 075 - 2026 Season 4
+Synthetic Car 75
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 075 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 075 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 075 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 075 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 075 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 075 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 075 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 075 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 075 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 075 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 075 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 075 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 076 - 2026 Season 4
+Synthetic Car 76
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 076 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 076 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 076 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 076 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 076 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 076 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 076 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 076 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 076 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 076 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 076 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 076 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 077 - 2026 Season 4
+Synthetic Car 77
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 077 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 077 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 077 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 077 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 077 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 077 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 077 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 077 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 077 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 077 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 077 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 077 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 078 - 2026 Season 4
+Synthetic Car 78
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 078 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 078 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 078 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 078 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 078 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 078 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 078 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 078 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 078 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 078 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 078 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 078 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 079 - 2026 Season 4
+Synthetic Car 79
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 079 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 079 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 079 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 079 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 079 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 079 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 079 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 079 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 079 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 079 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 079 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 079 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 080 - 2026 Season 4
+Synthetic Car 80
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 080 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 080 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 080 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 080 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 080 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 080 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 080 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 080 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 080 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 080 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 080 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 080 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 081 - 2026 Season 4
+Synthetic Car 81
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 081 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 081 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 081 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 081 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 081 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 081 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 081 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 081 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 081 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 081 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 081 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 081 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 082 - 2026 Season 4
+Synthetic Car 82
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 082 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 082 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 082 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 082 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 082 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 082 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 082 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 082 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 082 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 082 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 082 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 082 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 083 - 2026 Season 4
+Synthetic Car 83
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 083 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 083 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 083 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 083 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 083 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 083 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 083 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 083 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 083 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 083 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 083 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 083 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 084 - 2026 Season 4
+Synthetic Car 84
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 084 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 084 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 084 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 084 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 084 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 084 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 084 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 084 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 084 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 084 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 084 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 084 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 085 - 2026 Season 4
+Synthetic Car 85
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 085 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 085 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 085 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 085 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 085 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 085 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 085 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 085 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 085 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 085 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 085 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 085 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 086 - 2026 Season 4
+Synthetic Car 86
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 086 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 086 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 086 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 086 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 086 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 086 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 086 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 086 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 086 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 086 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 086 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 086 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 087 - 2026 Season 4
+Synthetic Car 87
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 087 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 087 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 087 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 087 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 087 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 087 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 087 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 087 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 087 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 087 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 087 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 087 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 088 - 2026 Season 4
+Synthetic Car 88
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 088 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 088 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 088 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 088 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 088 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 088 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 088 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 088 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 088 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 088 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 088 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 088 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 089 - 2026 Season 4
+Synthetic Car 89
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 089 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 089 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 089 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 089 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 089 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 089 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 089 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 089 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 089 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 089 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 089 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 089 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 090 - 2026 Season 4
+Synthetic Car 90
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 090 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 090 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 090 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 090 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 090 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 090 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 090 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 090 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 090 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 090 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 090 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 090 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 091 - 2026 Season 4
+Synthetic Car 91
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 091 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 091 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 091 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 091 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 091 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 091 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 091 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 091 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 091 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 091 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 091 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 091 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 092 - 2026 Season 4
+Synthetic Car 92
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 092 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 092 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 092 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 092 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 092 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 092 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 092 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 092 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 092 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 092 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 092 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 092 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 093 - 2026 Season 4
+Synthetic Car 93
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 093 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 093 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 093 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 093 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 093 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 093 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 093 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 093 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 093 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 093 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 093 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 093 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 094 - 2026 Season 4
+Synthetic Car 94
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 094 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 094 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 094 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 094 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 094 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 094 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 094 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 094 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 094 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 094 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 094 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 094 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 095 - 2026 Season 4
+Synthetic Car 95
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 095 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 095 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 095 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 095 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 095 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 095 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 095 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 095 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 095 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 095 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 095 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 095 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 096 - 2026 Season 4
+Synthetic Car 96
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 096 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 096 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 096 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 096 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 096 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 096 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 096 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 096 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 096 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 096 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 096 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 096 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 097 - 2026 Season 4
+Synthetic Car 97
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 097 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 097 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 097 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 097 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 097 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 097 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 097 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 097 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 097 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 097 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 097 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 097 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 098 - 2026 Season 4
+Synthetic Car 98
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 098 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 098 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 098 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 098 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 098 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 098 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 098 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 098 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 098 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 098 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 098 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 098 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 099 - 2026 Season 4
+Synthetic Car 99
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 099 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 099 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 099 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 099 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 099 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 099 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 099 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 099 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 099 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 099 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 099 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 099 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 100 - 2026 Season 4
+Synthetic Car 100
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 100 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 100 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 100 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 100 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 100 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 100 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 100 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 100 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 100 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 100 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 100 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 100 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 101 - 2026 Season 4
+Synthetic Car 101
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 101 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 101 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 101 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 101 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 101 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 101 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 101 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 101 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 101 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 101 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 101 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 101 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 102 - 2026 Season 4
+Synthetic Car 102
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 102 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 102 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 102 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 102 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 102 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 102 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 102 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 102 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 102 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 102 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 102 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 102 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 103 - 2026 Season 4
+Synthetic Car 103
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 103 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 103 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 103 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 103 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 103 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 103 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 103 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 103 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 103 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 103 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 103 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 103 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 104 - 2026 Season 4
+Synthetic Car 104
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 104 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 104 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 104 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 104 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 104 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 104 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 104 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 104 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 104 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 104 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 104 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 104 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 105 - 2026 Season 4
+Synthetic Car 105
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 105 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 105 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 105 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 105 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 105 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 105 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 105 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 105 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 105 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 105 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 105 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 105 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 106 - 2026 Season 4
+Synthetic Car 106
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 106 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 106 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 106 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 106 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 106 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 106 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 106 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 106 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 106 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 106 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 106 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 106 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 107 - 2026 Season 4
+Synthetic Car 107
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 107 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 107 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 107 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 107 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 107 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 107 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 107 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 107 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 107 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 107 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 107 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 107 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 108 - 2026 Season 4
+Synthetic Car 108
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 108 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 108 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 108 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 108 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 108 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 108 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 108 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 108 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 108 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 108 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 108 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 108 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 109 - 2026 Season 4
+Synthetic Car 109
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 109 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 109 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 109 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 109 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 109 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 109 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 109 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 109 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 109 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 109 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 109 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 109 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 110 - 2026 Season 4
+Synthetic Car 110
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 110 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 110 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 110 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 110 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 110 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 110 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 110 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 110 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 110 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 110 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 110 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 110 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 111 - 2026 Season 4
+Synthetic Car 111
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 111 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 111 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 111 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 111 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 111 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 111 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 111 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 111 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 111 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 111 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 111 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 111 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 112 - 2026 Season 4
+Synthetic Car 112
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 112 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 112 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 112 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 112 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 112 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 112 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 112 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 112 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 112 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 112 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 112 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 112 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 113 - 2026 Season 4
+Synthetic Car 113
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 113 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 113 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 113 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 113 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 113 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 113 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 113 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 113 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 113 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 113 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 113 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 113 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 114 - 2026 Season 4
+Synthetic Car 114
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 114 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 114 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 114 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 114 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 114 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 114 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 114 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 114 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 114 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 114 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 114 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 114 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 115 - 2026 Season 4
+Synthetic Car 115
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 115 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 115 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 115 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 115 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 115 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 115 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 115 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 115 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 115 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 115 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 115 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 115 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 116 - 2026 Season 4
+Synthetic Car 116
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 116 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 116 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 116 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 116 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 116 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 116 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 116 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 116 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 116 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 116 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 116 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 116 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 117 - 2026 Season 4
+Synthetic Car 117
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 117 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 117 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 117 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 117 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 117 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 117 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 117 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 117 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 117 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 117 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 117 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 117 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 118 - 2026 Season 4
+Synthetic Car 118
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 118 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 118 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 118 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 118 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 118 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 118 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 118 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 118 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 118 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 118 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 118 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 118 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 119 - 2026 Season 4
+Synthetic Car 119
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 119 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 119 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 119 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 119 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 119 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 119 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 119 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 119 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 119 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 119 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 119 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 119 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 120 - 2026 Season 4
+Synthetic Car 120
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 120 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 120 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 120 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 120 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 120 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 120 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 120 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 120 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 120 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 120 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 120 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 120 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 121 - 2026 Season 4
+Synthetic Car 121
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 121 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 121 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 121 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 121 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 121 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 121 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 121 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 121 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 121 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 121 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 121 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 121 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 122 - 2026 Season 4
+Synthetic Car 122
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 122 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 122 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 122 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 122 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 122 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 122 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 122 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 122 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 122 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 122 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 122 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 122 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 123 - 2026 Season 4
+Synthetic Car 123
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 123 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 123 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 123 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 123 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 123 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 123 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 123 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 123 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 123 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 123 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 123 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 123 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 124 - 2026 Season 4
+Synthetic Car 124
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 124 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 124 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 124 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 124 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 124 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 124 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 124 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 124 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 124 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 124 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 124 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 124 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 125 - 2026 Season 4
+Synthetic Car 125
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 125 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 125 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 125 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 125 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 125 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 125 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 125 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 125 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 125 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 125 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 125 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 125 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 126 - 2026 Season 4
+Synthetic Car 126
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 126 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 126 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 126 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 126 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 126 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 126 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 126 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 126 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 126 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 126 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 126 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 126 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 127 - 2026 Season 4
+Synthetic Car 127
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 127 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 127 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 127 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 127 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 127 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 127 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 127 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 127 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 127 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 127 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 127 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 127 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 128 - 2026 Season 4
+Synthetic Car 128
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 128 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 128 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 128 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 128 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 128 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 128 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 128 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 128 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 128 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 128 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 128 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 128 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 129 - 2026 Season 4
+Synthetic Car 129
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 129 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 129 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 129 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 129 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 129 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 129 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 129 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 129 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 129 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 129 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 129 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 129 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 130 - 2026 Season 4
+Synthetic Car 130
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 130 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 130 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 130 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 130 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 130 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 130 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 130 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 130 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 130 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 130 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 130 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 130 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 131 - 2026 Season 4
+Synthetic Car 131
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 131 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 131 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 131 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 131 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 131 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 131 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 131 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 131 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 131 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 131 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 131 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 131 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 132 - 2026 Season 4
+Synthetic Car 132
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 132 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 132 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 132 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 132 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 132 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 132 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 132 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 132 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 132 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 132 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 132 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 132 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 133 - 2026 Season 4
+Synthetic Car 133
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 133 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 133 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 133 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 133 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 133 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 133 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 133 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 133 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 133 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 133 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 133 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 133 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 134 - 2026 Season 4
+Synthetic Car 134
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 134 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 134 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 134 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 134 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 134 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 134 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 134 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 134 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 134 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 134 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 134 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 134 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 135 - 2026 Season 4
+Synthetic Car 135
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 135 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 135 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 135 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 135 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 135 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 135 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 135 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 135 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 135 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 135 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 135 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 135 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 136 - 2026 Season 4
+Synthetic Car 136
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 136 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 136 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 136 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 136 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 136 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 136 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 136 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 136 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 136 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 136 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 136 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 136 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 137 - 2026 Season 4
+Synthetic Car 137
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 137 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 137 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 137 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 137 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 137 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 137 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 137 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 137 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 137 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 137 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 137 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 137 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 138 - 2026 Season 4
+Synthetic Car 138
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 138 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 138 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 138 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 138 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 138 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 138 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 138 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 138 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 138 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 138 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 138 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 138 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 139 - 2026 Season 4
+Synthetic Car 139
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 139 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 139 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 139 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 139 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 139 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 139 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 139 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 139 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 139 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 139 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 139 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 139 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 140 - 2026 Season 4
+Synthetic Car 140
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 140 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 140 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 140 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 140 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 140 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 140 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 140 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 140 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 140 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 140 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 140 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 140 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 141 - 2026 Season 4
+Synthetic Car 141
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 141 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 141 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 141 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 141 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 141 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 141 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 141 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 141 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 141 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 141 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 141 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 141 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 142 - 2026 Season 4
+Synthetic Car 142
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 142 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 142 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 142 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 142 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 142 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 142 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 142 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 142 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 142 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 142 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 142 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 142 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 143 - 2026 Season 4
+Synthetic Car 143
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 143 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 143 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 143 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 143 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 143 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 143 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 143 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 143 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 143 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 143 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 143 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 143 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 144 - 2026 Season 4
+Synthetic Car 144
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 144 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 144 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 144 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 144 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 144 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 144 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 144 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 144 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 144 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 144 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 144 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 144 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 145 - 2026 Season 4
+Synthetic Car 145
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 145 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 145 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 145 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 145 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 145 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 145 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 145 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 145 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 145 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 145 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 145 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 145 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 146 - 2026 Season 4
+Synthetic Car 146
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 146 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 146 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 146 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 146 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 146 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 146 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 146 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 146 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 146 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 146 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 146 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 146 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 147 - 2026 Season 4
+Synthetic Car 147
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 147 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 147 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 147 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 147 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 147 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 147 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 147 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 147 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 147 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 147 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 147 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 147 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 148 - 2026 Season 4
+Synthetic Car 148
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 148 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 148 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 148 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 148 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 148 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 148 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 148 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 148 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 148 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 148 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 148 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 148 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 149 - 2026 Season 4
+Synthetic Car 149
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 149 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 149 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 149 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 149 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 149 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 149 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 149 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 149 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 149 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 149 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 149 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 149 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 150 - 2026 Season 4
+Synthetic Car 150
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 150 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 150 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 150 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 150 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 150 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 150 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 150 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 150 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 150 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 150 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 150 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 150 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 151 - 2026 Season 4
+Synthetic Car 151
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 151 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 151 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 151 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 151 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 151 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 151 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 151 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 151 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 151 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 151 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 151 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 151 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 152 - 2026 Season 4
+Synthetic Car 152
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 152 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 152 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 152 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 152 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 152 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 152 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 152 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 152 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 152 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 152 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 152 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 152 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 153 - 2026 Season 4
+Synthetic Car 153
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 153 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 153 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 153 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 153 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 153 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 153 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 153 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 153 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 153 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 153 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 153 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 153 - Layout 12
+(Test session)
+
+Paddock Synthetic Series 154 - 2026 Season 4
+Synthetic Car 154
+Rookie 1.0 --> Pro/WC 4.0, Synthetic fixture conditions
+Every hour (test data)
+Week 1 (2026-09-15) Test Circuit 154 - Layout 1
+(Test session)
+Week 2 (2026-09-22) Test Circuit 154 - Layout 2
+(Test session)
+Week 3 (2026-09-29) Test Circuit 154 - Layout 3
+(Test session)
+Week 4 (2026-10-06) Test Circuit 154 - Layout 4
+(Test session)
+Week 5 (2026-10-13) Test Circuit 154 - Layout 5
+(Test session)
+Week 6 (2026-10-20) Test Circuit 154 - Layout 6
+(Test session)
+Week 7 (2026-10-27) Test Circuit 154 - Layout 7
+(Test session)
+Week 8 (2026-11-03) Test Circuit 154 - Layout 8
+(Test session)
+Week 9 (2026-11-10) Test Circuit 154 - Layout 9
+(Test session)
+Week 10 (2026-11-17) Test Circuit 154 - Layout 10
+(Test session)
+Week 11 (2026-11-24) Test Circuit 154 - Layout 11
+(Test session)
+Week 12 (2026-12-01) Test Circuit 154 - Layout 12
+(Test session)
+

@@ -1,0 +1,257 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-16",
+  "versions": {
+    "pretendard": "1.3.9",
+    "lucide-static": "0.468.0",
+    "radix-colors": "3.0.0"
+  },
+  "files": [
+    {
+      "path": "assets/fonts/PretendardVariable.woff2",
+      "url": "https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/woff2/PretendardVariable.woff2",
+      "bytes": 2057688,
+      "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+    },
+    {
+      "path": "licenses/Pretendard-OFL.txt",
+      "url": "https://raw.githubusercontent.com/orioncactus/pretendard/v1.3.9/LICENSE",
+      "bytes": 4418,
+      "sha256": "d31ddd9f2bed32fd7e302a205cf2380ba0de6529152d239ef99cfb6f261bfc04"
+    },
+    {
+      "path": "licenses/Lucide-LICENSE.txt",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/LICENSE",
+      "bytes": 880,
+      "sha256": "1e7290b35280a048667bbf0ebabac1c7fd52a75300e8b2946ac165715997f2bc"
+    },
+    {
+      "path": "licenses/Feather-MIT.txt",
+      "url": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/LICENSE",
+      "bytes": 1082,
+      "sha256": "308028e93fcf84972523cdf6e616f73168546b4953895f516d01287f16fe7bee"
+    },
+    {
+      "path": "licenses/Radix-Colors-MIT.txt",
+      "url": "https://cdn.jsdelivr.net/npm/@radix-ui/colors@3.0.0/LICENSE",
+      "bytes": 1062,
+      "sha256": "9c400881b9139571aa7acc3bd6e422a4f05223b4519169fb661298fb44bf228e"
+    },
+    {
+      "path": "assets/icons/search.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/search.svg",
+      "bytes": 351,
+      "sha256": "e11a04d51c122a8a759211424920efc65fa36b7ab06237c34ef90317d920ddf9"
+    },
+    {
+      "path": "assets/icons/plus.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/plus.svg",
+      "bytes": 332,
+      "sha256": "b29207ee8f5cc0e829c0bab2e5b223fc88687599c6bd40b94ba35f52327615d6"
+    },
+    {
+      "path": "assets/icons/chevron-right.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/chevron-right.svg",
+      "bytes": 322,
+      "sha256": "fea488a3b60fd7738bbbf8ca98826ef5c0381347c5fd1048d45ee70a75a51cfe"
+    },
+    {
+      "path": "assets/icons/arrow-right.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/arrow-right.svg",
+      "bytes": 344,
+      "sha256": "12b97a4d2821da556ce7df95f89df46deb94aa711d46b36a848be0de0ac2a7f0"
+    },
+    {
+      "path": "assets/icons/arrow-left.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/arrow-left.svg",
+      "bytes": 344,
+      "sha256": "e31ed0af85ffbed2b54f78f37af197c3b84b24e776cba1d27613d6a9ad555a16"
+    },
+    {
+      "path": "assets/icons/check.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/check.svg",
+      "bytes": 316,
+      "sha256": "538432eec072ceeccf5a7aacf347a2ad2bff9937d203dbd0b4f4245d7accd93c"
+    },
+    {
+      "path": "assets/icons/x.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/x.svg",
+      "bytes": 333,
+      "sha256": "0f38855d9d5775c10960ae53e46b745f77914b43f78c43bf8abc39f4d5e06de1"
+    },
+    {
+      "path": "assets/icons/folder.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/folder.svg",
+      "bytes": 420,
+      "sha256": "d2708a4727b3d2e5640bce703b3362994e482a3080bbcbca7940efe0b88b7167"
+    },
+    {
+      "path": "assets/icons/file-text.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/file-text.svg",
+      "bytes": 473,
+      "sha256": "512f414d72aabc5218b94a9da571df70d8e0b014cfb32ec366b559ec868952d6"
+    },
+    {
+      "path": "assets/icons/settings.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/settings.svg",
+      "bytes": 904,
+      "sha256": "ceea1a72d04b112291222ba9ad0779a12d47d816079fe4174900c724f360b55c"
+    },
+    {
+      "path": "assets/icons/layout-grid.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/layout-grid.svg",
+      "bytes": 499,
+      "sha256": "f5dfe49a6c944a86a6d75f9f18a9a51903272ba2b9397333cd24f62cf2620969"
+    },
+    {
+      "path": "assets/icons/palette.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/palette.svg",
+      "bytes": 755,
+      "sha256": "290ec7c113d3cbb6d62d5d074ff41df3c79420eb287a23d12a0891d299e75776"
+    },
+    {
+      "path": "assets/icons/type.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/type.svg",
+      "bytes": 410,
+      "sha256": "b6a3e7741be184e36b6a7eebe59c1960b3fea6b298dcdf35ce7f82d6b93e9686"
+    },
+    {
+      "path": "assets/icons/panel-left.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/panel-left.svg",
+      "bytes": 366,
+      "sha256": "881736dd2d8d070901d325233800c3074b97e9b760a6776173947e9fad798c4c"
+    },
+    {
+      "path": "assets/icons/command.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/command.svg",
+      "bytes": 374,
+      "sha256": "c13cd8fec971ccbd19c883954aa41f2623af8d9bffd2da700492ede0fcde1fa9"
+    },
+    {
+      "path": "assets/icons/keyboard.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/keyboard.svg",
+      "bytes": 541,
+      "sha256": "872f39075c340dd8caa0af57dbea42969ed5c98aded70781922852e9db1264fc"
+    },
+    {
+      "path": "assets/icons/sun.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/sun.svg",
+      "bytes": 560,
+      "sha256": "f067e7494a29d825168ef4285d1eb66ef3cd57c33778fd67528247e377a5ff89"
+    },
+    {
+      "path": "assets/icons/moon.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/moon.svg",
+      "bytes": 334,
+      "sha256": "5e5c866dd82fbea5c03e00c778fa283c6efc8c37db3b7937824fe0b8ad5382f7"
+    },
+    {
+      "path": "assets/icons/monitor.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/monitor.svg",
+      "bytes": 425,
+      "sha256": "3ef31ab3ab45c174485e0c1dfc3bd3b54ae51cb74df8230a0e136d78ca580efd"
+    },
+    {
+      "path": "assets/icons/circle-check.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/circle-check.svg",
+      "bytes": 357,
+      "sha256": "d48c0901de2262e9f7c0566b5ad3893eafeab509715be6ac4e3b449f15d9260b"
+    },
+    {
+      "path": "assets/icons/circle-alert.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/circle-alert.svg",
+      "bytes": 416,
+      "sha256": "2c65a5c03a73d3115ce493779f82af98d94f0d72facf1d97c61ea08566bb401c"
+    },
+    {
+      "path": "assets/icons/triangle-alert.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/triangle-alert.svg",
+      "bytes": 431,
+      "sha256": "cba6c904f2cc8cc0ca16940e89762a4885dff08be9105ccff1dbd13d12663f70"
+    },
+    {
+      "path": "assets/icons/info.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/info.svg",
+      "bytes": 370,
+      "sha256": "8b0a0b5641a875a2e0d8c04080c55cf6c1808c1f76477acb89958e8da00ba5a1"
+    },
+    {
+      "path": "assets/icons/loader-circle.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/loader-circle.svg",
+      "bytes": 336,
+      "sha256": "44ad0f822a89b28a3feecf7276686c818a92a4a9c77cc51404c58929e30f0f3a"
+    },
+    {
+      "path": "assets/icons/trash-2.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/trash-2.svg",
+      "bytes": 499,
+      "sha256": "9268a35cfb4f9d852c3d13f2c91476dd067c21c20e2bcdb0093fd93fd0bf34b7"
+    },
+    {
+      "path": "assets/icons/undo-2.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/undo-2.svg",
+      "bytes": 387,
+      "sha256": "7b95f2a9511dfb90ec0a024823efb9c2d359320fea14c3783de4db527fec88c1"
+    },
+    {
+      "path": "assets/icons/external-link.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/external-link.svg",
+      "bytes": 417,
+      "sha256": "15432d67349662d1427ca5b8cc52d4152a9a893a251a842a817de1974a6b5766"
+    },
+    {
+      "path": "assets/icons/copy.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/copy.svg",
+      "bytes": 415,
+      "sha256": "6828c476979a7e4d5ae3ac726f8fadbcab066ec53299b7f8422cda321a60a841"
+    },
+    {
+      "path": "assets/icons/download.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/download.svg",
+      "bytes": 428,
+      "sha256": "f68a21e11115edc0aef51ac6f8f4618e14d2b92055f1cb9f5d670efc696bea85"
+    },
+    {
+      "path": "assets/icons/ellipsis.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/ellipsis.svg",
+      "bytes": 392,
+      "sha256": "c223eec545dc86e0de4c672e621550b391198ca97b8eabbe043613c3332d48b1"
+    },
+    {
+      "path": "assets/icons/inbox.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/inbox.svg",
+      "bytes": 465,
+      "sha256": "ff0f36d93e60684f3a1e6613180bf0a2b5523328ba6ab61066f8d4e6fe1849f3"
+    },
+    {
+      "path": "assets/icons/sliders-horizontal.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/sliders-horizontal.svg",
+      "bytes": 673,
+      "sha256": "995507595c7c24deffef382bacc452a24b40a2efc4aa54908563a0f09b6a75aa"
+    },
+    {
+      "path": "assets/icons/circle.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/circle.svg",
+      "bytes": 322,
+      "sha256": "a5dbd7b81b08245e8d7c036b336564b3ba7a396c9b8cc89725a210fff16cadaf"
+    },
+    {
+      "path": "assets/icons/check-check.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/check-check.svg",
+      "bytes": 358,
+      "sha256": "f288ef6e0b99df1ae65831f12eec033dca233cf2d5b4c0c415d39bd339349374"
+    },
+    {
+      "path": "assets/icons/archive.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/archive.svg",
+      "bytes": 419,
+      "sha256": "1a6e1c540c9a1a9b489893cc14ab9f597496c69aab5ba222fdd5b456de9e2fac"
+    },
+    {
+      "path": "assets/icons/arrow-up-right.svg",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/arrow-up-right.svg",
+      "bytes": 346,
+      "sha256": "7a58fb69deddd385b9bd47b406d3e9f3ccfbe11b319efcd5071cbd5b19c1bd4f"
+    }
+  ]
+}

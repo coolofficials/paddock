@@ -1,0 +1,16 @@
+Paddock 1.0.0 - iRacing Companion
+
+Extract into a writable folder. Keep paddock.exe and WebView2Loader.dll together.
+Requires Windows x64 and Microsoft Edge WebView2 Runtime. The executable is unsigned.
+
+First run: Apps > add detected programs or browse to an executable. Nothing is added automatically. Planner > Refresh schedule downloads the current official schedule. No season data is bundled.
+
+Window / Background controls launch-window presentation. Startup hiding runs once. Reopened windows remain visible afterward. Apps > options > Advanced can optionally hide a management window once within 15 seconds after iRacing exits. It is off by default. During that interval a manually opened window can also be hidden. Trading Paints waits two seconds for startup initialization. Paddock Open cancels pending hiding. Background does not add a native tray icon.
+
+Closing iRacing never automatically stops companion apps. Use Stop all. Repeated Launch all skips running apps; repeated Stop all tolerates already closed apps. Apps must run at compatible privileges.
+
+Profiles, plans and preferences are stored in data beside the executable. Keep this folder on updates. Season changes clear previous Plan/undo data but retain favorites and app profiles. No personal config is included.
+
+Project: https://github.com/coolofficials/paddock
+Website and demonstrations: https://coolofficials.github.io/paddock/
+Original app code: MIT. Dependencies retain original licenses; see licenses/. The separate CM2 package is GPL-3.0.
