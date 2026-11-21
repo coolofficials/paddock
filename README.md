@@ -73,7 +73,6 @@ Use Windows x64, Node.js 22.13+ with npm, Rust 1.90.0 GNU and MinGW-w64 (gcc and
 cd app/frontend
 npm ci
 npm run build
-npx playwright install chromium
 npm test # requires installed Google Chrome (channel chrome)
 cd ..
 ./scripts/cargo.ps1 test --locked
@@ -82,4 +81,4 @@ node scripts/dependency-notices.cjs
 ./scripts/package.ps1
 ```
 
-The frontend is embedded at compile time; build it before Cargo. The app does not require npm or a server when installed. Tests and demo footage use hand-authored synthetic schedules, not a bundled official season. The Windows executable is unsigned.
+UI tests use an installed Google Chrome browser. The frontend is embedded at compile time; build it before Cargo. The app does not require npm or a server when installed. Tests and demo footage use hand-authored synthetic schedules, not a bundled official season. The Windows executable is unsigned.
