@@ -10,7 +10,7 @@ Plan your iRacing week and bring your companion apps together. Paddock is a Wind
 
 | Package | What it does | What you need |
 |---|---|---|
-| [Paddock for Windows](https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-1.0.0-Windows-x64.zip) | iRacing season planning and companion-app management | Windows x64 and Microsoft Edge WebView2 Runtime |
+| [Paddock for Windows](https://github.com/coolofficials/paddock/releases/download/v1.0.1/Paddock-1.0.1-Windows-x64.zip) | iRacing season planning and companion-app management | Windows x64 and Microsoft Edge WebView2 Runtime |
 | [Paddock CM2](https://github.com/coolofficials/paddock/releases/download/v1.0.0/Paddock-CM2-1.0.0.zip) | Native dashboard for the MOZA CM2 | MOZA CM2, SimHub and AZOM; DNR integration for recent-lap history |
 
 The app and dashboard can be used independently. Paddock does not install the companion apps, SimHub, plugins or hardware drivers for you.
@@ -40,7 +40,7 @@ Closing the iRacing UI or simulator does not stop your companion apps. Use **Sto
 
 ## Install the Windows app
 
-1. Download and extract `Paddock-1.0.0-Windows-x64.zip` into a writable folder.
+1. Download and extract `Paddock-1.0.1-Windows-x64.zip` into a writable folder.
 2. Keep `paddock.exe` and `WebView2Loader.dll` together.
 3. Open `paddock.exe`. Visit **Apps** to create your setup, then **Planner** to refresh the schedule.
 
@@ -82,3 +82,5 @@ node scripts/dependency-notices.cjs
 ```
 
 UI tests use an installed Google Chrome browser. The frontend is embedded at compile time; build it before Cargo. The app does not require npm or a server when installed. Tests and demo footage use hand-authored synthetic schedules, not a bundled official season. The Windows executable is unsigned.
+
+Release packaging runs a binary privacy check. scripts/cargo.ps1 remaps source paths to virtual paths; scripts/verify-release-privacy.cjs rejects executables or DLLs containing local home paths.

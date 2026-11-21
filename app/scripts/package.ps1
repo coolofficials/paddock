@@ -4,6 +4,8 @@ $projectRoot = Split-Path -Parent $PSScriptRoot
 if (-not $OutputDirectory) { $OutputDirectory = Join-Path $projectRoot 'outputs' }
 $version = [regex]::Match((Get-Content -LiteralPath (Join-Path $projectRoot 'Cargo.toml') -Raw),'(?m)^version = "([^"]+)"').Groups[1].Value
 if (-not $version) { throw 'Package version is missing.' }
+& node (Join-Path $PSScriptRoot 'verify-release-privacy.cjs') (Join-Path $projectRoot 'target\release')
+if ($LASTEXITCODE -ne 0) { throw 'Release privacy verification failed.' }
 $stage = Join-Path $projectRoot ('work\release-' + [Guid]::NewGuid().ToString('N'))
 $package = Join-Path $stage ('Paddock-' + $version)
 New-Item -ItemType Directory -Force -Path $package,(Join-Path $package 'licenses'),$OutputDirectory | Out-Null
